@@ -1,0 +1,17 @@
+C:\Users\mat14\source\repos\mini jeux\mini jeux\bin\Debug\net6.0-windows\mini jeux.exe
+C:\Users\mat14\source\repos\mini jeux\mini jeux\bin\Debug\net6.0-windows\mini jeux.deps.json
+C:\Users\mat14\source\repos\mini jeux\mini jeux\bin\Debug\net6.0-windows\mini jeux.runtimeconfig.json
+C:\Users\mat14\source\repos\mini jeux\mini jeux\bin\Debug\net6.0-windows\mini jeux.dll
+C:\Users\mat14\source\repos\mini jeux\mini jeux\bin\Debug\net6.0-windows\mini jeux.pdb
+C:\Users\mat14\source\repos\mini jeux\mini jeux\obj\Debug\net6.0-windows\mini jeux.csproj.AssemblyReference.cache
+C:\Users\mat14\source\repos\mini jeux\mini jeux\obj\Debug\net6.0-windows\mini_jeux.Form1.resources
+C:\Users\mat14\source\repos\mini jeux\mini jeux\obj\Debug\net6.0-windows\mini jeux.csproj.GenerateResource.cache
+C:\Users\mat14\source\repos\mini jeux\mini jeux\obj\Debug\net6.0-windows\mini jeux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mat14\source\repos\mini jeux\mini jeux\obj\Debug\net6.0-windows\mini jeux.AssemblyInfoInputs.cache
+C:\Users\mat14\source\repos\mini jeux\mini jeux\obj\Debug\net6.0-windows\mini jeux.AssemblyInfo.cs
+C:\Users\mat14\source\repos\mini jeux\mini jeux\obj\Debug\net6.0-windows\mini jeux.csproj.CoreCompileInputs.cache
+C:\Users\mat14\source\repos\mini jeux\mini jeux\obj\Debug\net6.0-windows\mini jeux.dll
+C:\Users\mat14\source\repos\mini jeux\mini jeux\obj\Debug\net6.0-windows\refint\mini jeux.dll
+C:\Users\mat14\source\repos\mini jeux\mini jeux\obj\Debug\net6.0-windows\mini jeux.pdb
+C:\Users\mat14\source\repos\mini jeux\mini jeux\obj\Debug\net6.0-windows\mini jeux.genruntimeconfig.cache
+C:\Users\mat14\source\repos\mini jeux\mini jeux\obj\Debug\net6.0-windows\ref\mini jeux.dll
